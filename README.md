@@ -1,6 +1,3 @@
-This project features labs and projects worked on throughout the course to learn the fundamentals of Product Management.
+This project features labs and answer sheets included in the course to learn the fundamentals of Product Management. 
 
-
-Project Contents:
-
-Labs & Answer sheets
+It covers the entire product management lifecycle, from Conceive to Retire phase.
